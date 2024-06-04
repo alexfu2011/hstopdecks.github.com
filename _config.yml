@@ -4,8 +4,9 @@ url: "https://hstopdecks.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
+  date_format: "%b %e, %Y"
   # Meta
-  title: 日常炉石传说博客
+  title: 日常炉石传说
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
@@ -27,7 +28,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "rohanchandra/type-theme"
+  github:
   gitter:
   google_plus:
   instagram:
