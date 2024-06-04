@@ -261,5 +261,5 @@ AAECAdzcBQLR+AW6pwYOgMIF7PYFv/4FpP8F8YAGg5UGiJ4Gsp4G5aYG5qYGs6cGuKcGheYGhuYGAAA=
 
 AAECAa35Awj5xgWs6QX6+QWm+wXo/wXHpAavqAbqswYL56AE9MYFyOsF1/oF7f0FzoAG8YAGo6AG8KkGibUG3uYGAAED8LMGx6QG97MGx6QG6d4Gx6QGAAA=
 
-来源：
-* [https://imgur.com/a/whizbangs-workshop-5SWzNF8](https://imgur.com/a/whizbangs-workshop-5SWzNF8)
+
+[source...](https://imgur.com/a/whizbangs-workshop-5SWzNF8){:target="_blank"}
