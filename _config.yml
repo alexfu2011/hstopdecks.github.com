@@ -50,7 +50,7 @@ theme_settings:
   search: false # Enable the search feature
 
   # Localization strings
-  str_follow_on: "Follow on"
+  str_follow_on: "关注"
   str_rss_follow: "Follow RSS feed"
   str_email: "Email"
   str_next_post: "Next post"
