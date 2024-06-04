@@ -4,7 +4,6 @@ url: "https://hstopdecks.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
-  date_format: "%b %e, %Y"
   # Meta
   title: 日常炉石传说
   avatar: assets/img/avatar.png
@@ -42,6 +41,7 @@ theme_settings:
   twitter:
   wordpress:
   youtube:
+  weibo: https://weibo.com/u/5489665087
 
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
