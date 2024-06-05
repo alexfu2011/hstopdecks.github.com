@@ -20,7 +20,11 @@ layout: default
           </a>
         </h1>
         <p class="meta">
-          {{ post.date | date: "%Y-%m-%d" }}
+          {% if post.last_modified_at %}
+            发布于{{ post.date | date: site.date_format }}, 更新于{{ post.last_modified_at | date: site.date_format }} 
+          {% else %}
+            发布于{{ post.date | date: site.date_format }}
+          {% endif %}
         </p>
       </header>
       <div class="excerpt">

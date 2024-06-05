@@ -6,7 +6,11 @@ layout: default
     <h1 class="title">{{ page.feature-title | default: page.title }}</h1>
     {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
     <p class="meta">
-      {{ page.date | date: "%Y-%m-%d" }}
+      {% if page.last_modified_at %}
+        发布于{{ page.date | date: site.date_format }}, 更新于{{ page.last_modified_at | date: site.date_format }} 
+      {% else %}
+        发布于{{ page.date | date: site.date_format }}
+      {% endif %}
       {% if page.author %} - {{ page.author }}{% endif %}
     </p>
   </header>

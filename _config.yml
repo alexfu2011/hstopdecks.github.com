@@ -1,6 +1,7 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://hstopdecks.github.io/"
+date_format: "%Y-%m-%d"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
