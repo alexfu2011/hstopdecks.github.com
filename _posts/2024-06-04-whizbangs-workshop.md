@@ -6,6 +6,16 @@ tags: [thijs, decks]
 
 以下是Thijs炉石传说威兹班的工坊卡组。这个赛季你打上传说了吗？如果还没有，在这里可以找到你想要的所有卡组，有些卡组可能被削弱，但是所有卡组都有时间可做参考。
 
+![04 June - Highlander Warrior](/assets/uploads/jAxaZQg.png)
+*04 June - Highlander Warrior*
+
+AAECAaiaBh6GoASJoASO1ASQ1AT9xAWw6QXG8wW0+AWQ+wWh+wXYgQaFggaQgwaLlAaplQb3lwbOnAacngafngbNngbPngbRngaHoAaPowbHpAaTqAavqAbsqQbQsAbk5gYAAAEGiKAE/cQFrNEF/cQF0Z4G/cQF9LMGx6QG97MGx6QG7N4Gx6QGAAA=
+
+![04 June - Highlander Paladin](/assets/uploads/STRpMXe.png)
+*04 June - Highlander Paladin*
+
+AAECAczJBh7JoASt7QWN/gXYgQbKgwbQgwaFjgaZjgacjgbjjgaGjwa8jwaOlQaplQb1lQaqlgbOnAaTngbNngbRngbLnwaSoAbIogbHpAavqAbQqQbRqQbTqQbOsAabuAYAAAED9LMGx6QG97MGx6QG6N4Gx6QGAAA=
+
 ![27 May - Fatique Warlock](/assets/uploads/tfSq9oi.png)
 *27 May - Fatique Warlock*
 
